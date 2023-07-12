@@ -4,5 +4,5 @@ theme: jekyll-theme-minimal
 title: Wissensbasis
 logo: /assets/img/FDMScouts_nrw_Logo.png
 description: Fragen und Antworten für den Einstieg in das Thema Forschungsdatenmanagement - für das Infrastrukturpersonal.
-show_downloads: true
+show_downloads: false
 google_analytics:
