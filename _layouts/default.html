@@ -19,9 +19,7 @@
         <br>
         <br>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -50,6 +48,12 @@
         {% if site.github.is_project_page %}
         <p>Mehr Informationen zur Förderlinie FDMScouts.nrw auf <a href="https://www.forschungsdaten.org/index.php/FDMScouts.nrw">forschungsdaten.info</a></p>
         {% endif %}
+        <br>
+
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+        <br>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
