@@ -2,6 +2,7 @@
 
 # Wissensbasis-Test
 ## Daten planen
+.. raw:: html
 <details>
   <summary><h3>Ich muss einen DMP schreiben, gibt es Musterpläne?</h3></summary>
   
@@ -12,6 +13,7 @@ Es gibt auch verschiedene Templates für DMPs in Online-Tools wie [DMPonline](ht
 
  
 </details>
+.. raw:: html
 
 <details>
   <summary><h3>Wo soll ich denn die Ressourcen dafür hernehmen?<h3></summary>
