@@ -1,7 +1,6 @@
 
 
-# Wissensbasis-Test
-## Daten planen
+# Daten planen
 
 <Details markdown="block">
   <summary><b>Ich muss einen DMP schreiben, gibt es Musterpläne?</b></summary> 
@@ -23,7 +22,7 @@ Ressourcen können z.T. bei Antragsstellung mitgedacht werden, hier am [Beispiel
 
 
 
-## Daten erheben
+# Daten erheben
 
 <Details markdown="block">
   <summary><b>Wo soll ich denn die Ressourcen dafür hernehmen?</b></summary>
