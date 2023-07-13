@@ -17,6 +17,10 @@ Es gibt auch verschiedene Templates für DMPs in Online-Tools wie [DMPonline](ht
 Ressourcen können z.T. bei Antragsstellung mitgedacht werden, hier am [Beispiel der DFG](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/beantragbare_mittel/index.html)
 
 </Details>
+<br>
+<br>
+
+
 
 
 ## Daten erheben
