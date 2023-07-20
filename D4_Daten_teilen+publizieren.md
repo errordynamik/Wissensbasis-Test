@@ -1,7 +1,7 @@
 
 
 # Daten teilen und publizieren
-<details>
+<details markdown="block">
   <summary><h3>Was sind Metadaten? Wozu brauche ich Metadaten? <h3></summary>
 
 Forschungsdaten sind nie selbsterklärend, sondern stets kontextabhängig. Ihnen beigefügte strukturierte Informationen, die den jeweiligen Kontext dokumentieren, werden als Metadaten (‚Daten über Daten‘) bezeichnet. Sie ermöglichen es Dritten (und Ihnen selbst nach längerer Zeit), Ihre Forschungsdaten verstehen, bewerten und nachnutzen zu können. In der Regel wird unterschieden zwischen
@@ -17,7 +17,7 @@ Viele Arbeits- und Fachbereiche haben sich auf Metadatenstandards, d. h. einheit
 </details>
 
 
-<details>
+<details markdown="block">
   <summary><h3>Sollte ich den Quellcode der Forschungssoftware mitveröffentlichen?<h3></summary>
 
 Seitens der Guten wissenschaftlichen Praxis besteht keine Publikationsverpflichtung von Forschungsdaten oder Quellcode im Zusammenhang mit der verwendeten Forschungssoftware. Aus Gründen der Transparenz und Nachvollziehbarkeit kann es ratsam sein, im Rahmen von Forschungsprojekten entwickelte Software und den Quellcode der Forschungssoftware gemeinsam mit den Forschungsdaten zu veröffentlichen. 
