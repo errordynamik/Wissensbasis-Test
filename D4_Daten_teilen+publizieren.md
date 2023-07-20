@@ -1,18 +1,6 @@
 
 
 # Daten teilen und publizieren
-## Zwischenüberschrift 1
-<details>
-  <summary><h3>Hier steht Frage 1</h3></summary>
-
-Und hier eine Beispielantwort. Mit Links.  
-Ja, die HU Berlin hat [Musterpläne](https://www.cms.hu-berlin.de/de/dl/dataman/arbeiten/dmp_erstellen/dmp-info) erstellt und die Uni Wien stellt eine [DMP Collection](https://phaidra.univie.ac.at/search?page=1&pagesize=10) zur Verfügung
-
-Mit einem zweiten Absatz. Es gibt auch verschiedene Templates für DMPs in Online-Tools wie DMPonline: https://dmponline.dcc.ac.uk/ (an dieser Stelle der Hinweis: DMPOnline ist eine Webseite im United Kingdom und damit außerhalb der EU)
-
-</details>
-
-
 <details>
   <summary><h3>Was sind Metadaten? Wozu brauche ich Metadaten? <h3></summary>
 
