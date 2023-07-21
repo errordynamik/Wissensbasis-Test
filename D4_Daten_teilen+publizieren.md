@@ -37,7 +37,7 @@ Grundsätzlich sollten Erkenntnisse aus der Wissenschaft der Öffentlichkeit fre
 <br>
 
 <details markdown="block">
-  <summary><b3>Was kostet es mich, meine Artikel und Forschungsdaten Open Access zu publizieren?</b></summary>
+  <summary><b>Was kostet es mich, meine Artikel und Forschungsdaten Open Access zu publizieren?</b></summary>
   
 Für die Jahre 2019-2021 lagen die Kosten für wissenschaftlich begutachtete Artikel in Goldenen Open Access Zeitschriften durchschnittlich bei netto 1.800 -2.000 EUR. Eventuell hat Ihre Hochschule einen Vertrag mit der Verlagsgesellschaft, welcher einen Rabatt auf die "Article Processing Charge" gewährt. Nehmen Sie hierzu Kontakt mit Ihrer Bibliothek auf.
 [Verteilung der Gold OA-APCs in Deutschland](https://open-access-monitor.de/)
